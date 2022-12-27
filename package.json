@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/interface",
-  "description": "DogeSwap Interface",
+  "description": "OriSwap Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
