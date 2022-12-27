@@ -1,0 +1,88 @@
+{
+  "name": "ETHF mainnet",
+  "logoURI": "https://www.oriswap.xyz/images/ethf-mainnet-logo.png",
+  "keywords": [
+    "ethf",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 513100,
+      "address": "0x5342F2CEE30ca8a8D1a971C375a3B5E73cF2733B",
+      "name": "Oriswap Token",
+      "symbol": "ORI",
+      "decimals": 18,
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0x5342F2CEE30ca8a8D1a971C375a3B5E73cF2733B.png"
+    },
+    {
+      "name": "ORIE Token",
+      "address": "0xfd031EEf14D49729f5441197701a3c58215E5206",
+      "symbol": "ORIE",
+      "decimals": 8,
+      "chainId": 513100,
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0xfd031EEf14D49729f5441197701a3c58215E5206.png"
+    },
+    {
+      "name": "HuaFashiye",
+      "chainId": 513100,
+      "symbol": "HF",
+      "decimals": 18,
+      "address": "0x2282443a094bd107f0c6d0070146b123c4a02013",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0x2282443a094bd107f0c6d0070146b123c4a02013.png"
+    },
+    {
+      "name": "FREN Crypto",
+      "chainId": 513100,
+      "symbol": "FREN",
+      "decimals": 18,
+      "address": "0x7127deeff734ce589bead9c4edeffc39c9128771",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0x7127deeff734ce589bead9c4edeffc39c9128771.png"
+    },
+    {
+      "name": "HEX",
+      "chainId": 513100,
+      "symbol": "HEX",
+      "decimals": 8,
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39.png"
+    },
+    {
+      "name": "USD Coin",
+      "chainId": 513100,
+      "symbol": "USDC",
+      "decimals": 18,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "chainId": 513100,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 513100,
+      "symbol": "USDT",
+      "decimals": 18,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "chainId": 513100,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "logoURI": "https://graph.oriswap.xyz/static/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}

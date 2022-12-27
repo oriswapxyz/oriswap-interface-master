@@ -1,0 +1,25 @@
+{
+    "name": "Heco Testnet Tokens",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "heco",
+        "tokens",
+        "testnet"
+    ],
+    "logoURI": "https://www.hecochain.com/static/HT-HECO2.41598485.svg",
+    "timestamp": "2020-12-14T18:56:35+0000",
+    "tokens": [
+        {
+            "name": "0xProtocol",
+            "chainId": 256,
+            "symbol": "ZRX",
+            "decimals": 18,
+            "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+            "logoURI": "https://www.hecochain.com/static/HT-HECO2.41598485.svg"
+        }
+    ]
+}
