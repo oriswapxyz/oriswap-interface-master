@@ -1,4 +1,4 @@
-# DogeSwap Interface
+# ORISwap Interface
 
 ## Development
 
